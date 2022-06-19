@@ -10,14 +10,14 @@ export const educationData = [
         id: 2,
         institution: 'Port City International University',
         course: 'Computer Science & Engineering',
-        startYear: '2020',
+        startYear: '2019',
         endYear: 'Present'
     },
     {
         id: 3,
         institution: 'Programming Hero',
         course: 'Complete Web Development Course With Jhankar Mahbub',
-        startYear: '2021',
+        startYear: '2022',
         endYear: 'Present'
     },
 ]
